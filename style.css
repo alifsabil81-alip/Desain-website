@@ -1,0 +1,60 @@
+/* style.css */
+p {
+    color: blueviolet;
+}
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+#profil {
+    padding: 20px;
+    text-align: center;
+}
+#profil img {
+    width: 300px;
+    border-radius: 50%;
+}
+#hobi {
+    padding: 18px;
+    text-align: center;
+}
+#hobi ul {
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: #333;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    font-size: 14px;
+}
+/* Uts Pemrograman Dasar */
+.text-hijau {
+    color: green;
+}
+/* Profil Saya */
+#heading-utama {
+    font-size: 2cm;
+}
+/* Uts Pemrograman Dasar */
+a:hover {
+    color: white;
+}
